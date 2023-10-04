@@ -10,3 +10,4 @@ Main functions:
 – Mobile application for customers with the ability to track the order, evaluation and quality.
 This application is suitable for any coffee shop, the owners or managers of the coffee shop will be able to create their own account, upload a photo of the coffee shop itself and a menu with photos for each coffee or dessert so that the customers can order or choose before they come to the coffee shop.
 There will also be only online payment, and a receipt will be sent to your personal account so that there are no misunderstandings.
+The only negative that I see is getting a database to start the project.
